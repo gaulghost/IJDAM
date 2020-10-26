@@ -48,7 +48,7 @@ export default function ProductSection() {
         <GridItem xs={12} sm={12} md={11}>
           <h2 className={classes.title}>
             About{' '}
-            // <a href="http://universal-inovators.com" target="_blank">
+            {/* <a href="http://universal-inovators.com" target="_blank"/> */}
             <a href="#" target="_blank">
               Universal Innovators
             </a>
@@ -93,7 +93,7 @@ export default function ProductSection() {
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
               title="Editorial Board"
-              description="DCM-Journal operate under the guidance of an editorial board, providing expert advice on content, attracting new authors and encouraging submissions.The Editorial Board is the team of experts in the journal's field."
+              description="DAM-Journal operate under the guidance of an editorial board, providing expert advice on content, attracting new authors and encouraging submissions.The Editorial Board is the team of experts in the journal's field."
               icon={Create}
               iconColor="danger"
               vertical

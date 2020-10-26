@@ -27,7 +27,7 @@ export default function LandingPage(props) {
       <Header
         color="dark"
         routes={dashboardRoutes}
-        brand="ICC-Journal"
+        brand="DAM-Journal"
         rightLinks={<HeaderLinks />}
         fixed
         {...rest}

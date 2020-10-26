@@ -75,7 +75,7 @@ export default class MyApp extends App {
     return (
       <React.Fragment>
         <Head>
-          <title>DCM-Journal</title>
+          <title>DAM-Journal</title>
           <meta name="google-site-verification" content="UjmQO0ZpKQve7OaCBkr4YBOnb3SOs_572kFjN2qXFrg" />
         </Head>
         <Component {...pageProps} />
