@@ -1,5 +1,5 @@
 {
-  "name": "icc-journal",
+  "name": "dam-journal",
   "version": "1.0.0",
   "description": "Website For Innovative Computing and Communication An International Journal",
   "main": "index.js",
@@ -15,12 +15,12 @@
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/nextjs-material-kit.git"
   },
-  "author": "Nitin Kumar",
+  "author": "Pradhuman Singh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snitin315/icc-journal-website/issues"
+    "url": "https://github.com/gaulghost/IJDAM"
   },
-  "homepage": "https://icc-journal.com",
+  "homepage": "https://dam-journal.com",
   "dependencies": {
     "@material-ui/core": "4.3.2",
     "@material-ui/icons": "4.2.1",
